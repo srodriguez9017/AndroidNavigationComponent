@@ -1,9 +1,11 @@
-# AndroidNavigationComponent
-How to use Android Navigation Component
+# Android Navigation Component FORK 
 
-This is project that corresponds to live talk in [Youtube](https://www.youtube.com/watch?v=RWcgzK0Cmec&feature=youtu.be).
 
-Shows how to use Android Navigation Component in a basic way.
+#### How to use Android Navigation Component
+
+#### This is project that corresponds to live talk in [Youtube](https://www.youtube.com/watch?v=RWcgzK0Cmec&feature=youtu.be).
+
+#### Shows how to use Android Navigation Component in a basic way.
 
 ### Navigation Demo
 ![alt text](https://github.com/anncode1/AndroidNavigationComponent/blob/master/img/nav_graph.png "Navigation Demo")
